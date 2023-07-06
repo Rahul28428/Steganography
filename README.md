@@ -5,6 +5,4 @@ The repository contains two files, namely text.txt and image.jpeg. By leveraging
 
 Steganography is the practice of concealing information within other non-secret data, such as images, text, or audio files, without arousing suspicion. In this case, the image.jpeg file is embedded within the text.txt file, allowing the image to be hidden in plain sight. The code.ipynb notebook contains the necessary instructions and algorithms to perform this concealment.
 
-Upon executing the code, the resulting output_B20CS047.docx file is generated. This file appears as a regular Word document, but it holds the hidden image. To reveal the image, one must adjust the font size to a minuscule 1 pixel. By doing so, the hidden image becomes visible, allowing viewers to perceive the concealed content.
-
 This approach of hiding images within text files using steganography provides a discreet and inconspicuous means of transmitting sensitive information or secret imagery. It demonstrates the potential for covert communication by leveraging the characteristics of different file formats and exploiting the human perception limitations at extremely small font sizes.
